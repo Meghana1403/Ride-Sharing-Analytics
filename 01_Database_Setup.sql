@@ -1,2 +1,0 @@
-CREATE DATABASE ride_sharing_db;
-GO
