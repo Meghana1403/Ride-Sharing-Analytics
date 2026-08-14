@@ -4,6 +4,10 @@
 
 Ride-Sharing Analytics is a data analytics project that analyzes ride-sharing trip data to understand trip performance, revenue, cancellations, driver activity, and customer behavior.
 
+## Dashboard Preview
+
+![Ride Sharing Analytics Dashboard](Images/Ride%20Sharing%20Analytics%20Dashboard.png)
+
 ## Technologies Used
 
 - SQL Server / SSMS
